@@ -123,7 +123,7 @@ Representan valores de verdad, con dos opciones posibles (`bool`):
 True False
 ```
 
-### TIPOS DE COLECCION
+### TIPOS DE COLECCION O COMPUESTOS
 
 **Lista:** Colecciones ordenadas y modificables (mutables) de elementos (`list`):
 
